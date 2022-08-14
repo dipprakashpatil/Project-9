@@ -6,8 +6,8 @@
 
 ## Technologies Use -
 
-                    1. HTML
-                    2. CSS
+                     HTML
+                     CSS
 
 ### Time To Accomplished. -
 
@@ -15,6 +15,6 @@
 
 ### Porject link -
 
-[Netlify] (https://liveclass-project-9.netlify.app/)
+[Netlify](https://liveclass-project-9.netlify.app/)
 
-![badge] (https://img.shields.io/badge/Live--class-Project--9-green)
+![badge](https://img.shields.io/badge/Live--class-Project--9-green)
