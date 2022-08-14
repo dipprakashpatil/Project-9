@@ -4,14 +4,15 @@
 
 ## Project Name- Developer Landing Page
 
-## Technologies Use -
+## Technologies Use
 
-                     HTML
-                     CSS
+- HTML
 
-### Time To Accomplished. -
+- CSS
 
-                     9 hours
+### Time To Accomplished.
+
+- 9 hours
 
 ### Porject link -
 
