@@ -16,6 +16,6 @@
 
 ### Porject link -
 
-[Netlify](https://liveclass-project-9.netlify.app/)
+[Netlify](https://project-9--liveclass-project-9.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Live--class-Project--9-green)
